@@ -1,0 +1,29 @@
+*.log
+secret_key.txt
+SECRET_KEY.txt
+/node_modules/
+*.env
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Django migrations
+*.pyc
+db.sqlite3
+__pycache__
+migrations
